@@ -1,4 +1,5 @@
 import html.parser
+import requests
 
 class MyHTMLParser(html.parser.HTMLParser):
 
@@ -77,15 +78,15 @@ class MyHTMLParser(html.parser.HTMLParser):
         return self.teamData
 
 
+#BEGIN SCRIPTING CODE
 
-with open("testdata.html") as myfile:
-    content = myfile.read()
-
-print(content)
-
+URL = "http://www.mcsl.org/Results/2019/week2/QVvCTC.html"
+content = requests.get(URL)
+print(content.text)
 parser = MyHTMLParser()
-parser.feed(content)
+parser.feed(content.text)
 data = parser.getData()
+
 print("------------------------------")
 print("STARTING PRINTOUT")
 #print(data)
@@ -103,3 +104,5 @@ with open("output.txt","a") as outputfile:
          #   outputfile.write(j)
           #  outputfile.write("\n")
 """
+
+exit()

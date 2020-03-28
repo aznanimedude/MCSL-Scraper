@@ -13,6 +13,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="aznanimedude &lt;aznanimedude06@gmail.com&gt;" />
         <option value="aznanimedude" />
       </list>
     </option>
@@ -31,15 +32,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MCSL-Scraper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -47,7 +49,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -56,6 +58,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scraper" />
+        <item itemvalue="Python.scraper" />
         <item itemvalue="Python.scraper" />
       </list>
     </recent_temporary>
@@ -92,49 +96,73 @@
       <option name="project" value="LOCAL" />
       <updated>1585358905437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="got better output from html parser to correctly store data as a nested dictionary">
+      <created>1585365082950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585365082950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added project to intelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="added project to intelliJ" />
+    <MESSAGE value="got better output from html parser to correctly store data as a nested dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="got better output from html parser to correctly store data as a nested dictionary" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2274" y="34" key="#Project_Structure" timestamp="1585367321727">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2274" y="34" key="#Project_Structure/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367321727" />
     <state x="504" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585363672542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="504" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585363672542" />
-    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585358904697">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585365082231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358904697" />
+    <state x="614" y="114" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365082231" />
     <state x="360" y="120" width="1200" height="800" key="DiffContextDialog" timestamp="1585358705317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="360" y="120" width="1200" height="800" key="DiffContextDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358705317" />
-    <state width="1340" height="343" key="GridCell.Tab.0.bottom" timestamp="1585364524576">
+    <state x="2114" y="93" key="FileChooserDialogImpl" timestamp="1585367318759">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2114" y="93" key="FileChooserDialogImpl/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367318759" />
+    <state width="1637" height="343" key="GridCell.Tab.0.bottom" timestamp="1585367805717">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="343" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365557160" />
+    <state width="1637" height="343" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1637" height="343" key="GridCell.Tab.0.center" timestamp="1585367805717">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="343" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365557160" />
+    <state width="1637" height="343" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1637" height="343" key="GridCell.Tab.0.left" timestamp="1585367805717">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="343" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365557160" />
+    <state width="1637" height="343" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1637" height="343" key="GridCell.Tab.0.right" timestamp="1585367805717">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="343" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365557160" />
+    <state width="1637" height="343" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585365142475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="343" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585364524576" />
-    <state width="1340" height="343" key="GridCell.Tab.0.center" timestamp="1585364524576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="343" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585364524576" />
-    <state width="1340" height="343" key="GridCell.Tab.0.left" timestamp="1585364524575">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="343" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585364524575" />
-    <state width="1340" height="343" key="GridCell.Tab.0.right" timestamp="1585364524576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="343" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585364524576" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585358973547">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358973547" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585365142475" />
     <state x="637" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1585359092678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="637" y="254" key="VcsDiffUtil.ChangesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585359092678" />
+    <state x="2456" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1585368107348">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2456" y="359" key="com.intellij.ide.util.TipDialog/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585368107348" />
   </component>
 </project>
