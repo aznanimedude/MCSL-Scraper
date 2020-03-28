@@ -1,0 +1,105 @@
+Event 1 - Boys 12U 100M Individual Medley
+Segovia, Alex (11) (QV)
+Adelmann, Eli (12) (QV)
+Wong, Alexander (11) (QV)
+Event 2 - Girls 12U 100M Individual Medley
+Webb, Maria D (11) (QV)
+Balderrama, Isabella M (11) (QV)
+Mayhew, Brianna J (12) (QV)
+Event 3 - Boys 18U 200M Medley Relay
+QUAIL VALLEY
+Event 4 - Girls 18U 200M Medley Relay
+Event 5 - Boys 8U 25M Freestyle
+Mayhew, Zachariah R (8) (QV)
+Event 6 - Girls 8U 25M Freestyle
+Hollister, McKenzie C (8) (QV)
+Trofymenko, Vlada (7) (QV)
+Young, Kiara (7) (QV)
+Figueroa, Evie D (8) (QV)
+Event 7 - Boys 9-10 50M Freestyle
+Lopez, Eliana (8) (QV)
+Liang, Luke (9) (QV)
+Figueroa, Ian N (10) (QV)
+Cabrera, Jonathan (10) (QV)
+Koch, Aaron I (10) (QV)
+Escobar, Miguel I (10) (QV)
+Event 8 - Girls 9-10 50M Freestyle
+Pacheco, Anthony C (9) (QV)
+Trofymenko, Zlata (9) (QV)
+Guilds, Mairin C (9) (QV)
+Mayhew, Karis E (10) (QV)
+Rojas, Emily A (10) (QV)
+Solares, Dailyn (9) (QV)
+Event 9 - Boys 13-14 50M Freestyle
+Bityeki, Chancelle (10) (QV)
+Mayhew, C. J. (14) (QV)
+Cruz, Rudy M (14) (QV)
+Butler, Ethan (14) (QV)
+Franklin, Andrew (14) (QV)
+Brogden, Mason C (13) (QV)
+Event 10 - Girls 13-14 50M Freestyle
+Pacheco, Bernie R (13) (QV)
+Webb, Natalie I (13) (QV)
+Segovia, Dayana (14) (QV)
+Halling, Samantha J (14) (QV)
+Beltran, Gabriela (13) (QV)
+Diehl, Paige A (14) (QV)
+Event 11 - Boys 11-12 50M Freestyle
+Hafer, Deirdre (13) (QV)
+Malik, Jason (12) (QV)
+Event 12 - Girls 11-12 50M Freestyle
+Hafer, Naomi (11) (QV)
+Diehl, Abigail W (11) (QV)
+Event 13 - Boys 15-18 100M Freestyle
+Young, Ariana (11) (QV)
+Webb, Aaron A (15) (QV)
+Franklin, Timothy (18) (QV)
+Event 14 - Girls 15-18 100M Freestyle
+Aguilar, Madison A (18) (QV)
+Butler, Katy (18) (QV)
+Aguilar, Shelby E (15) (QV)
+Butler, Emma (17) (QV)
+Event 15 - Boys 13-14 100M Individual Medley
+Johnson, Nuelle W (16) (QV)
+Hafer, Ian (14) (QV)
+Event 16 - Girls 13-14 100M Individual Medley
+Event 17 - Boys 8U 25M Backstroke
+Event 18 - Girls 8U 25M Backstroke
+Event 19 - Boys 9-10 25M Backstroke
+Liang, Andrew (9) (QV)
+Event 20 - Girls 9-10 25M Backstroke
+Gomes, Rose B (10) (QV)
+Event 21 - Boys 15-18 100M Backstroke
+Mayhew, Justin J (17) (QV)
+Event 22 - Girls 15-18 100M Backstroke
+Brogden, Morgan C (16) (QV)
+Event 23 - Boys 11-12 50M Backstroke
+Event 24 - Girls 11-12 50M Backstroke
+Beltran, Sara (11) (QV)
+Event 25 - Boys 13-14 50M Backstroke
+Event 26 - Girls 13-14 50M Backstroke
+Event 27 - Boys 15-18 100M Individual Medley
+Event 28 - Girls 15-18 100M Individual Medley
+Event 29 - Boys 8U 25M Breast stroke
+Event 30 - Girls 8U 25M Breast stroke
+Event 31 - Boys 9-10 25M Breast stroke
+Zaporozhetc, Michael (9) (QV)
+Event 32 - Girls 9-10 25M Breast stroke
+Event 33 - Boys 11-12 50M Breast stroke
+Event 34 - Girls 11-12 50M Breast stroke
+Event 35 - Boys 13-14 50M Breast stroke
+Event 36 - Girls 13-14 50M Breast stroke
+Event 37 - Boys 15-18 100M Breast stroke
+Event 38 - Girls 15-18 100M Breast stroke
+Event 39 - Boys 8U 25M Butterfly
+Event 40 - Girls 8U 25M Butterfly
+Event 41 - Boys 9-10 25M Butterfly
+Event 42 - Girls 9-10 25M Butterfly
+Event 43 - Boys 11-12 50M Butterfly
+Event 44 - Girls 11-12 50M Butterfly
+Event 45 - Boys 13-14 50M Butterfly
+Event 46 - Girls 13-14 50M Butterfly
+Event 47 - Boys 15-18 50M Butterfly
+Event 48 - Girls 15-18 50M Butterfly
+Event 49 - Boys 14U 175M Freestyle Relay
+Event 50 - Girls 14U 175M Freestyle Relay
