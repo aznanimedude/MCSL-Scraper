@@ -1,6 +1,6 @@
-from html.parser import HTMLParser
+import html.parser
 
-class MyHTMLParser(HTMLParser):
+class MyHTMLParser(html.parser.HTMLParser):
 
     isQV = False
     countdown = 0
