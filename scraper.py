@@ -15,8 +15,8 @@ class MyHTMLParser(html.parser.HTMLParser):
     def handle_starttag(self, tag, attrs):
         if self.isQV:
             print("Encountered a start tag:", tag)
-#            for attr in attrs:
-#                print("     attr:",attr)
+#           for attr in attrs:
+#               print("     attr:",attr)
 
     # generic starting tag handler, just prints if within a QV-related data portion
     def handle_endtag(self, tag):
@@ -117,7 +117,7 @@ for i in data:
 #        print(data[i][j][1])
         continue
 
-with open("output.txt","a") as outputfile:
+with open("output.txt","w") as outputfile:
     for i in data:
         outputfile.write(i)
         outputfile.write("\n")
