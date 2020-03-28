@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4caf58d3-48bf-4677-a0e1-dc5dbb1d61a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +13,15 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="aznanimedude &lt;aznanimedude06@gmail.com&gt;" />
         <option value="aznanimedude" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -30,8 +38,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.scraper">
+    <configuration name="_pydev_execfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSL-Scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_PLUGINS_DIR$/python-ce/helpers/pydev/_pydev_imps" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_PLUGINS_DIR$/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MCSL-Scraper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,7 +80,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -55,6 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scraper" />
+        <item itemvalue="Python._pydev_execfile" />
+        <item itemvalue="Python.scraper" />
         <item itemvalue="Python.scraper" />
       </list>
     </recent_temporary>
@@ -84,41 +121,135 @@
       <option name="project" value="LOCAL" />
       <updated>1585358847797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added project to intelliJ">
+      <created>1585358905437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585358905437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="got better output from html parser to correctly store data as a nested dictionary">
+      <created>1585365082950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585365082950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added ability to parse html directly from webpage URL">
+      <created>1585368642065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585368642065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed relay parsing to correctly format dictionary key and value for relay parsed data">
+      <created>1585376955637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585376955637</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed relay parsing to correctly format dictionary key and value for relay parsed data">
+      <created>1585377214177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585377214177</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed relay parsing to correctly format dictionary key and value for relay parsed data">
+      <created>1585379602308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585379602308</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added project to intelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="added project to intelliJ" />
+    <MESSAGE value="got better output from html parser to correctly store data as a nested dictionary" />
+    <MESSAGE value="added ability to parse html directly from webpage URL" />
+    <MESSAGE value="fixed relay parsing to correctly format dictionary key and value for relay parsed data" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed relay parsing to correctly format dictionary key and value for relay parsed data" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585358846961">
+    <state x="2274" y="34" key="#Project_Structure" timestamp="1585367321727">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2274" y="34" key="#Project_Structure/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367321727" />
+    <state x="504" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585363672542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358846961" />
+    <state x="504" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585363672542" />
+    <state x="707" y="376" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585407205612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="376" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585407205612" />
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585379601711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585379601711" />
+    <state x="2457" y="141" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585368641356" />
     <state x="360" y="120" width="1200" height="800" key="DiffContextDialog" timestamp="1585358705317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="360" y="120" width="1200" height="800" key="DiffContextDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358705317" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1585358821794">
+    <state x="2114" y="93" key="FileChooserDialogImpl" timestamp="1585367318759">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2114" y="93" key="FileChooserDialogImpl/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367318759" />
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1585375948316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1585358821794">
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375948316" />
+    <state width="1637" height="343" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1585375948316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1585358821794">
+    <state width="1877" height="343" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375948316" />
+    <state width="1637" height="343" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1585375948316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1585358821794">
+    <state width="1877" height="343" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375948316" />
+    <state width="1637" height="343" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1585375948316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
-    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1585358699886">
+    <state width="1877" height="343" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375948316" />
+    <state width="1637" height="343" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585367805717" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585375935051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358699886" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375935051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585375935051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375935051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585375935051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375935051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585375935051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585375935051" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585377266856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585377266856" />
+    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1585359092678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585359092678" />
+    <state x="2456" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1585413157325">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2456" y="359" key="com.intellij.ide.util.TipDialog/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585413157325" />
+    <state x="2546" y="326" key="git4idea.merge.GitMergeDialog" timestamp="1585413212365">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2546" y="326" key="git4idea.merge.GitMergeDialog/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1585413212365" />
   </component>
 </project>

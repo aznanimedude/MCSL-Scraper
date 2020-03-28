@@ -1,0 +1,382 @@
+body {
+	margin: 20px;
+	padding: 0;
+	background: #FFFFFF;
+	font: normal .9em Tahoma, Arial, Helvetica, sans-serif;
+	color: #666666;
+	width:1024px;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	color: #333333;
+}
+#posts h1, h2, h3
+{
+  text-align:center;
+}
+
+p, blockquote, ol, ul {
+	line-height: 160%;
+}
+
+a {
+	color: #3A69BA;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Boxed */
+
+.boxed {
+	float: left;
+	clear: left;
+	width: 200px;
+	margin: 0 0 10px 0;
+	padding: 0;
+	background: #EFF3F9;
+}
+
+.boxed .heading {
+	margin-top: 0;
+	padding: 8px 15px;
+	background: #5E80BD url(../images/img3.gif) no-repeat center bottom;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font: bold 1em Tahoma, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+
+.boxed .content {
+	margin: 0;
+	padding: 5px 14px 10px 14px;
+}
+
+.boxed ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+.boxed li {
+	padding: 3px 0;
+	font-size: .8em;
+	border-top: 1px dotted #1F1F21;
+}
+
+.boxed li.first {
+	border: none;
+}
+
+.boxed a {
+	padding-left: 10px;
+	background: url(../images/img4.gif) no-repeat left center;
+	text-decoration: none;
+}
+
+/* Wrapper */
+
+#wrapper {
+	width: 1012px; /*778px;*/
+	margin: 0 auto;
+}
+
+/* Header */
+
+#header {
+	float: left;
+	width: 200px;
+	height: 150px;
+	background: url(../images/img1.jpg);
+}
+
+#header h1 {
+	margin: 0;
+	padding: 20px 0 0 0;
+	text-align: center;
+	letter-spacing: -1px;
+	font-size: 2.5em;
+}
+
+#header h2 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 1.2em;
+	font-style: italic;
+}
+
+#header a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* Pages */
+#banner {
+	float: right;
+	width: 600px; 
+	height: 116px;
+	margin-right: 100px;
+	margin-top: 15px;
+}
+
+#pages {
+	float: right;
+	width: 800px; 
+	height: 150px;
+	background: url(../images/img2.jpg);
+}
+
+table.infoTbl, table.full
+{
+  margin-left:10%;
+  width: 80%;
+	border-collapse:collapse;
+	background:#EFF4FB url(http://www.roscripts.com/images/teaser.gif) repeat-x;
+	border-left:1px solid #686868;
+	border-right:1px solid #686868;
+	font:0.8em/145% 'Trebuchet MS',helvetica,arial,verdana;
+	color: #333;
+}
+table.full
+{
+  margin-left:0%;
+  width:100%;
+}
+.infoTbl p, blockquote
+{
+  line-height: 110%;
+}
+.infoTbl td, th {
+		padding-left:8px;
+		padding-right:4px;
+}
+
+.infoTbl caption {
+		padding: 0 0 .5em 0;
+		text-align: left;
+		font-size: 1.4em;
+		font-weight: bold;
+		text-transform: uppercase;
+		color: #333;
+		background: transparent;
+}
+
+/* =links
+----------------------------------------------- */
+
+table .infoTbl a {
+		color:#950000;
+		text-decoration:none;
+}
+
+table .infoTbl a:link {}
+
+table .infoTbl a:visited {
+		font-weight:normal;
+		color:#666;
+		text-decoration: line-through;
+}
+
+table .infoTbl a:hover {
+		border-bottom: 1px dashed #bbb;
+}
+
+/* =head =foot
+----------------------------------------------- */
+
+.infoTbl thead th, tfoot th, tfoot td {
+		background:#333 url(http://www.roscripts.com/images/llsh.gif) repeat-x;
+		color:#fff
+}
+
+.infoTbl tfoot td {
+		text-align:right
+}
+
+/* =body
+----------------------------------------------- */
+
+table .infoTbl tbody th, tbody td {
+		/*border-bottom: dotted 1px #333;*/
+}
+
+table .infoTbl tbody th {
+		white-space: nowrap;
+}
+
+.infoTbl tbody th a {
+		color:#333;
+}
+
+.infoTbl .odd {}
+
+.infoTbl tbody tr:hover {
+		background:#fafafa
+}/*
+
+#pages h2 {
+	display: none;
+}
+
+#pages ul {
+	float: right;
+	margin: 0;
+	padding: 125px 15px 0 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#pages li {
+	display: inline;
+}
+#pages a {
+	padding-left: 2em;
+	text-decoration: none;
+	font: bold 1em Tahoma, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+
+#pages a:hover {
+	text-decoration: underline;
+}
+*/
+
+/* Content */
+
+#content {
+	clear: both;
+	padding-top: 10px;
+}
+
+.scratchTbl {border-collapse: collapse; width: 500px; padding-top: 3px; padding-bottom:3px}
+.scratchTbl .odd {background-color: #dddddd;}
+.scratchTbl .ctr {text-align: center;}
+
+/* Posts */
+
+#posts {
+	float: right;
+	width: 780px; /*540px;*/
+	padding-left: 20px;
+	/*padding-right: 20px; */
+}
+
+.post {
+	padding-top: 10px;
+}
+
+.post .title {
+	margin: 0;
+	font-size: 2em;
+}
+
+.post .posted {
+	margin-top: 0;
+	font: normal .8em Tahoma, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+
+.post .meta {
+	margin: 2em 0 3em 0;
+	border-top: 1px dotted #939A3C;
+	font: normal .8em Tahoma, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+
+.post .meta p {
+	margin: 0;
+}
+
+ul.twocolumn {
+width: 80%;
+margin-left:10%;
+}
+
+ul.twocolumn li {
+width: 48%;
+float: left;
+}
+
+/* Archives */
+
+#archives {
+}
+
+/* Search */
+
+#search {
+}
+
+#search .content {
+	padding-bottom: 12px;
+}
+
+#textfield1 {
+	width: 156px;
+	padding: 5px 5px;
+	border: 1px solid #000000;
+	font: bold 1em Tahoma, Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+#submit1 {
+	display: none;
+}
+
+/* Footer */
+
+#footer {
+	clear: both;
+	border-top: 1px dotted #000000;
+	font: normal .8em Tahoma, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+
+#footer a {
+	color: #999999;
+}
+
+.linkbtn {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	padding:4px 12px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528ecc;
+}.linkbtn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	cursor: pointer;
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.linkbtn:active {
+	position:relative;
+	cursor:pointer;
+	top:1px;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+
