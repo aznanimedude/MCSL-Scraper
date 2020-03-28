@@ -1,105 +1,215 @@
 Event 1 - Boys 12U 100M Individual Medley
-Segovia, Alex (11) (QV)
-Adelmann, Eli (12) (QV)
-Wong, Alexander (11) (QV)
+	-	 Segovia, Alex (11) (QV) 1:43.48 1:44.88
+	-	 Adelmann, Eli (12) (QV) 1:46.96 1:50.80
+	-	 Wong, Alexander (11) (QV) 1:55.63 DQ
 Event 2 - Girls 12U 100M Individual Medley
-Webb, Maria D (11) (QV)
-Balderrama, Isabella M (11) (QV)
-Mayhew, Brianna J (12) (QV)
+	-	 Wong, Alexander (11) (QV) 1:55.63 DQ
+	-	 Webb, Maria D (11) (QV) 1:16.28 1:16.81
+	-	 Balderrama, Isabella M (11) (QV) 1:17.90 1:17.96
+	-	 Mayhew, Brianna J (12) (QV) 1:37.36 1:37.83
 Event 3 - Boys 18U 200M Medley Relay
-QUAIL VALLEY
+	-	 Cruz, Rudy M (14), Mayhew, Justin J (17), Webb, Aaron A (15), Moncada, Moises (13) 2:37.68 2:23.45
 Event 4 - Girls 18U 200M Medley Relay
+	-	 Aguilar, Madison A (18), Aguilar, Shelby E (15), Halling, Samantha J (14), Brogden, Morgan C (16) 2:52.18 2:34.43
+	-	 Beltran, Sara (11), Mayhew, Brianna J (12), Segovia, Dayana (14), Beltran, Gabriela (13) 2:54.00 2:47.43
 Event 5 - Boys 8U 25M Freestyle
-Mayhew, Zachariah R (8) (QV)
+	-	 Mayhew, Zachariah R (8) (QV) 19.83 20.13
+	-	 Gololobov, Nick (6) (QV) 42.81 47.56
 Event 6 - Girls 8U 25M Freestyle
-Hollister, McKenzie C (8) (QV)
-Trofymenko, Vlada (7) (QV)
-Young, Kiara (7) (QV)
-Figueroa, Evie D (8) (QV)
+	-	 Gololobov, Nick (6) (QV) 42.81 47.56
+	-	 Trofymenko, Vlada (7) (QV) 34.26 28.23
+	-	 Young, Kiara (7) (QV) 40.31 38.03
+	-	 Lopez, Eliana (8) (QV) 46.03 40.09
 Event 7 - Boys 9-10 50M Freestyle
-Lopez, Eliana (8) (QV)
-Liang, Luke (9) (QV)
-Figueroa, Ian N (10) (QV)
-Cabrera, Jonathan (10) (QV)
-Koch, Aaron I (10) (QV)
-Escobar, Miguel I (10) (QV)
+	-	 Lopez, Eliana (8) (QV) 46.03 40.09
+	-	 Liang, Luke (9) (QV) 44.44 44.95
+	-	 Zaporozhetc, Michael (9) (QV) 51.69 47.86
+	-	 Cabrera, Jonathan (10) (QV) 1:09.75 1:04.89
+	-	 Escobar, Miguel I (10) (QV) 1:16.68 1:07.70
+	-	 Koch, Aaron I (10) (QV) 1:15.56 1:12.52
+	-	 Pacheco, Anthony C (9) (QV) NT 2:04.39
 Event 8 - Girls 9-10 50M Freestyle
-Pacheco, Anthony C (9) (QV)
-Trofymenko, Zlata (9) (QV)
-Guilds, Mairin C (9) (QV)
-Mayhew, Karis E (10) (QV)
-Rojas, Emily A (10) (QV)
-Solares, Dailyn (9) (QV)
+	-	 Pacheco, Anthony C (9) (QV) NT 2:04.39
+	-	 Trofymenko, Zlata (9) (QV) 44.55 43.81
+	-	 Gomes, Rose B (10) (QV) 46.92 46.96
+	-	 Moncada, Ariana (9) (QV) 50.60 54.25
+	-	 Mayhew, Karis E (10) (QV) 55.21 55.01
+	-	 Durjan, Aurah (9) (QV) 59.96 59.06
+	-	 Rojas, Emily A (10) (QV) 1:00.27 1:00.35
 Event 9 - Boys 13-14 50M Freestyle
-Bityeki, Chancelle (10) (QV)
-Mayhew, C. J. (14) (QV)
-Cruz, Rudy M (14) (QV)
-Butler, Ethan (14) (QV)
-Franklin, Andrew (14) (QV)
-Brogden, Mason C (13) (QV)
+	-	 Rojas, Emily A (10) (QV) 1:00.27 1:00.35
+	-	 Mayhew, C. J. (14) (QV) 28.85 29.06
+	-	 Cruz, Rudy M (14) (QV) 31.63 30.69
+	-	 Moncada, Moises (13) (QV) 39.23 38.58
+	-	 Brogden, Mason C (13) (QV) 39.62 39.96
+	-	 Pacheco, Bernie R (13) (QV) 49.06 42.97
 Event 10 - Girls 13-14 50M Freestyle
-Pacheco, Bernie R (13) (QV)
-Webb, Natalie I (13) (QV)
-Segovia, Dayana (14) (QV)
-Halling, Samantha J (14) (QV)
-Beltran, Gabriela (13) (QV)
-Diehl, Paige A (14) (QV)
+	-	 Pacheco, Bernie R (13) (QV) 49.06 42.97
+	-	 Webb, Natalie I (13) (QV) 30.07 29.38
+	-	 Balderama, Alexandra Z (14) (QV) 33.51 33.83
+	-	 Segovia, Dayana (14) (QV) 34.18 33.93
+	-	 Diehl, Paige A (14) (QV) 39.84 38.60
+	-	 Wong, Sophia (13) (QV) 40.90 40.37
+	-	 Hafer, Deirdre (13) (QV) 42.63 42.21
 Event 11 - Boys 11-12 50M Freestyle
-Hafer, Deirdre (13) (QV)
-Malik, Jason (12) (QV)
+	-	 Adelmann, Eli (12) (QV) 39.47 42.43
+	-	 Wong, Alexander (11) (QV) 40.83 45.49
+	-	 Malik, Jason (12) (QV) 48.55 45.75
 Event 12 - Girls 11-12 50M Freestyle
-Hafer, Naomi (11) (QV)
-Diehl, Abigail W (11) (QV)
+	-	 Malik, Jason (12) (QV) 48.55 45.75
+	-	 Webb, Maria D (11) (QV) 31.44 31.07
+	-	 Balderrama, Isabella M (11) (QV) 31.69 31.55
+	-	 Beltran, Sara (11) (QV) 39.55 39.12
+	-	 Hafer, Naomi (11) (QV) 46.22 43.07
+	-	 Young, Ariana (11) (QV) 48.64 46.86
+	-	 Solomon, Tseday g (12) (QV) 48.04 47.78
 Event 13 - Boys 15-18 100M Freestyle
-Young, Ariana (11) (QV)
-Webb, Aaron A (15) (QV)
-Franklin, Timothy (18) (QV)
+	-	 Solomon, Tseday g (12) (QV) 48.04 47.78
+	-	 Webb, Aaron A (15) (QV) 1:03.55 1:02.60
+	-	 Mayhew, Justin J (17) (QV) 1:05.69 1:05.29
 Event 14 - Girls 15-18 100M Freestyle
-Aguilar, Madison A (18) (QV)
-Butler, Katy (18) (QV)
-Aguilar, Shelby E (15) (QV)
-Butler, Emma (17) (QV)
+	-	 Aguilar, Madison A (18) (QV) 1:17.04 1:16.18
+	-	 Beltran, Gabriela (13) (QV) NT 1:18.23
+	-	 Aguilar, Shelby E (15) (QV) 1:25.55 1:24.50
 Event 15 - Boys 13-14 100M Individual Medley
-Johnson, Nuelle W (16) (QV)
-Hafer, Ian (14) (QV)
+	-	 Mayhew, C. J. (14) (QV) 1:13.42 1:12.16
+	-	 Hafer, Ian (14) (QV) 1:28.78 1:26.32
+	-	 Cruz, Rudy M (14) (QV) 1:28.95 1:27.84
 Event 16 - Girls 13-14 100M Individual Medley
+	-	 Webb, Natalie I (13) (QV) 1:16.00 1:13.19
+	-	 Halling, Samantha J (14) (QV) 1:26.69 1:24.23
+	-	 Balderama, Alexandra Z (14) (QV) 1:28.06 1:28.32
 Event 17 - Boys 8U 25M Backstroke
+	-	 Gololobov, Nick (6) (QV) 51.01 51.80
 Event 18 - Girls 8U 25M Backstroke
+	-	 Gololobov, Nick (6) (QV) 51.01 51.80
+	-	 Lopez, Eliana (8) (QV) 54.25 48.27
+	-	 Young, Kiara (7) (QV) 1:01.52 1:03.72
 Event 19 - Boys 9-10 25M Backstroke
-Liang, Andrew (9) (QV)
+	-	 Young, Kiara (7) (QV) 1:01.52 1:03.72
+	-	 Liang, Luke (9) (QV) 23.96 24.46
+	-	 Liang, Andrew (9) (QV) 25.58 28.63
+	-	 Escobar, Miguel I (10) (QV) 32.55 37.22
 Event 20 - Girls 9-10 25M Backstroke
-Gomes, Rose B (10) (QV)
+	-	 Escobar, Miguel I (10) (QV) 32.55 37.22
+	-	 Trofymenko, Zlata (9) (QV) 25.84 24.77
+	-	 Mayhew, Karis E (10) (QV) 30.81 32.63
+	-	 Moncada, Ariana (9) (QV) 32.18 33.86
 Event 21 - Boys 15-18 100M Backstroke
-Mayhew, Justin J (17) (QV)
+	-	 Moncada, Ariana (9) (QV) 32.18 33.86
+	-	 Webb, Aaron A (15) (QV) 1:14.40 1:14.08
+	-	 Mayhew, Justin J (17) (QV) 1:24.15 1:20.27
 Event 22 - Girls 15-18 100M Backstroke
-Brogden, Morgan C (16) (QV)
+	-	 Aguilar, Madison A (18) (QV) 1:29.89 1:29.07
+	-	 Brogden, Morgan C (16) (QV) 1:33.93 1:30.60
+	-	 Aguilar, Shelby E (15) (QV) 1:40.13 1:40.20
 Event 23 - Boys 11-12 50M Backstroke
+	-	 Aguilar, Shelby E (15) (QV) 1:40.13 1:40.20
+	-	 Segovia, Alex (11) (QV) 49.01 50.45
+	-	 Wong, Alexander (11) (QV) 56.18 53.81
+	-	 Malik, Jason (12) (QV) 1:13.68 1:08.10
 Event 24 - Girls 11-12 50M Backstroke
-Beltran, Sara (11) (QV)
+	-	 Malik, Jason (12) (QV) 1:13.68 1:08.10
+	-	 Webb, Maria D (11) (QV) 36.03 36.56
+	-	 Mayhew, Brianna J (12) (QV) 44.53 43.39
+	-	 Beltran, Sara (11) (QV) 47.32 45.95
 Event 25 - Boys 13-14 50M Backstroke
+	-	 Cruz, Rudy M (14) (QV) 42.92 42.20
+	-	 Hafer, Ian (14) (QV) 43.64 42.43
+	-	 Brogden, Mason C (13) (QV) 51.18 48.52
 Event 26 - Girls 13-14 50M Backstroke
+	-	 Webb, Natalie I (13) (QV) 35.35 34.02
+	-	 Halling, Samantha J (14) (QV) 42.22 40.57
+	-	 Balderama, Alexandra Z (14) (QV) 42.06 41.31
 Event 27 - Boys 15-18 100M Individual Medley
+	-	 Webb, Aaron A (15) (QV) 1:12.78 1:12.73
+	-	 Mayhew, Justin J (17) (QV) 1:18.44 1:17.09
 Event 28 - Girls 15-18 100M Individual Medley
+	-	 Aguilar, Madison A (18) (QV) 1:29.62 1:30.21
+	-	 Brogden, Morgan C (16) (QV) 1:31.84 1:30.41
+	-	 Aguilar, Shelby E (15) (QV) 1:36.43 1:33.29
 Event 29 - Boys 8U 25M Breast stroke
+	-	 Aguilar, Shelby E (15) (QV) 1:36.43 1:33.29
+	-	 Mayhew, Zachariah R (8) (QV) 25.87 24.95
+	-	 Gololobov, Nick (6) (QV) NT DQ
 Event 30 - Girls 8U 25M Breast stroke
+	-	 Gololobov, Nick (6) (QV) NT DQ
+	-	 Trofymenko, Vlada (7) (QV) 37.73 37.22
+	-	 Lopez, Eliana (8) (QV) NT DQ
 Event 31 - Boys 9-10 25M Breast stroke
-Zaporozhetc, Michael (9) (QV)
+	-	 Lopez, Eliana (8) (QV) NT DQ
+	-	 Zaporozhetc, Michael (9) (QV) 31.53 30.37
+	-	 Liang, Andrew (9) (QV) 32.51 37.12
+	-	 Cabrera, Jonathan (10) (QV) 37.93 39.13
 Event 32 - Girls 9-10 25M Breast stroke
+	-	 Gomes, Rose B (10) (QV) 26.80 26.19
+	-	 Mayhew, Karis E (10) (QV) 30.78 28.88
+	-	 Rojas, Emily A (10) (QV) 42.48 41.45
 Event 33 - Boys 11-12 50M Breast stroke
+	-	 Rojas, Emily A (10) (QV) 42.48 41.45
+	-	 Adelmann, Eli (12) (QV) 52.90 53.40
+	-	 Segovia, Alex (11) (QV) 55.85 56.37
+	-	 Malik, Jason (12) (QV) 1:08.03 1:04.15
 Event 34 - Girls 11-12 50M Breast stroke
+	-	 Malik, Jason (12) (QV) 1:08.03 1:04.15
+	-	 Balderrama, Isabella M (11) (QV) 39.78 40.82
+	-	 Mayhew, Brianna J (12) (QV) 50.18 49.18
+	-	 Beltran, Sara (11) (QV) 52.08 50.96
 Event 35 - Boys 13-14 50M Breast stroke
+	-	 Mayhew, C. J. (14) (QV) 37.25 36.67
+	-	 Brogden, Mason C (13) (QV) 49.63 44.06
+	-	 Hafer, Ian (14) (QV) 45.02 44.27
 Event 36 - Girls 13-14 50M Breast stroke
+	-	 Balderama, Alexandra Z (14) (QV) 44.47 43.72
+	-	 Halling, Samantha J (14) (QV) 43.95 44.18
+	-	 Segovia, Dayana (14) (QV) 51.36 48.64
 Event 37 - Boys 15-18 100M Breast stroke
+	-	 Mayhew, Justin J (17) (QV) 1:24.12 1:19.81
 Event 38 - Girls 15-18 100M Breast stroke
+	-	 Aguilar, Shelby E (15) (QV) 1:42.75 1:38.36
+	-	 Brogden, Morgan C (16) (QV) 1:46.60 1:43.93
+	-	 Beltran, Gabriela (13) (QV) NT 1:50.94
 Event 39 - Boys 8U 25M Butterfly
+	-	 Beltran, Gabriela (13) (QV) NT 1:50.94
+	-	 Mayhew, Zachariah R (8) (QV) 25.43 25.02
 Event 40 - Girls 8U 25M Butterfly
+	-	 Trofymenko, Vlada (7) (QV) NT 38.32
+	-	 Young, Kiara (7) (QV) NT DQ
 Event 41 - Boys 9-10 25M Butterfly
+	-	 Liang, Luke (9) (QV) 26.04 26.21
+	-	 Liang, Andrew (9) (QV) 28.66 30.18
+	-	 Zaporozhetc, Michael (9) (QV) 30.55 30.50
 Event 42 - Girls 9-10 25M Butterfly
+	-	 Zaporozhetc, Michael (9) (QV) 30.55 30.50
+	-	 Gomes, Rose B (10) (QV) 24.34 23.23
+	-	 Trofymenko, Zlata (9) (QV) 26.23 26.60
+	-	 Rojas, Emily A (10) (QV) 31.62 32.76
 Event 43 - Boys 11-12 50M Butterfly
+	-	 Rojas, Emily A (10) (QV) 31.62 32.76
+	-	 Segovia, Alex (11) (QV) 48.84 48.27
+	-	 Wong, Alexander (11) (QV) 58.45 58.70
+	-	 Adelmann, Eli (12) (QV) 57.18 59.72
 Event 44 - Girls 11-12 50M Butterfly
+	-	 Webb, Maria D (11) (QV) 34.33 33.41
+	-	 Balderrama, Isabella M (11) (QV) 37.47 37.27
+	-	 Mayhew, Brianna J (12) (QV) 48.24 43.32
 Event 45 - Boys 13-14 50M Butterfly
+	-	 Mayhew, C. J. (14) (QV) 33.00 32.81
+	-	 Cruz, Rudy M (14) (QV) 37.53 37.96
+	-	 Hafer, Ian (14) (QV) 42.84 39.73
 Event 46 - Girls 13-14 50M Butterfly
+	-	 Webb, Natalie I (13) (QV) 34.13 32.75
+	-	 Segovia, Dayana (14) (QV) 39.15 37.99
+	-	 Halling, Samantha J (14) (QV) 38.06 39.01
 Event 47 - Boys 15-18 50M Butterfly
+	-	 Webb, Aaron A (15) (QV) 33.47 31.83
 Event 48 - Girls 15-18 50M Butterfly
+	-	 Beltran, Gabriela (13) (QV) NT 38.64
+	-	 Aguilar, Madison A (18) (QV) 39.84 38.75
+	-	 Brogden, Morgan C (16) (QV) 39.69 40.28
 Event 49 - Boys 14U 175M Freestyle Relay
+	-	 Brogden, Morgan C (16) (QV) 39.69 40.28
+	-	 Liang, Luke (9), Adelmann, Eli (12), Mayhew, C. J. (14), Mayhew, Zachariah R (8) NT 2:18.58
 Event 50 - Girls 14U 175M Freestyle Relay
+	-	 Liang, Andrew (9), Segovia, Alex (11), Hafer, Ian (14), Gololobov, Nick (6) NT 2:54.43
+	-	 Trofymenko, Zlata (9), Webb, Maria D (11), Webb, Natalie I (13), Trofymenko, Vlada (7) NT 2:13.16

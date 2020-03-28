@@ -108,18 +108,25 @@ print("------------------------------")
 print("STARTING PRINTOUT")
 #print(data)
 for i in data:
-    print(i)
-    print(data[i])
+
+#    print(data[i])
     for j in data[i]:
+        print(i, j, data[i][j][0], data[i][j][1])
+#        print(j)
+#       print(data[i][j][0])
+#        print(data[i][j][1])
         continue
-"""
+
 with open("output.txt","a") as outputfile:
     for i in data:
         outputfile.write(i)
         outputfile.write("\n")
+        for j in data[i]:
+            outputfile.write(str.join(" ", ("\t-\t",j, data[i][j][0], data[i][j][1])))
+            outputfile.write("\n")
         #for j in data[i]:
          #   outputfile.write(j)
           #  outputfile.write("\n")
-"""
+
 
 exit()
