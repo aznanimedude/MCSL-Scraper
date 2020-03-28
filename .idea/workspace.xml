@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4caf58d3-48bf-4677-a0e1-dc5dbb1d61a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="aznanimedude" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZjhFZRHMv8YOcEWeCtI49jWRWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSL-Scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4caf58d3-48bf-4677-a0e1-dc5dbb1d61a2" name="Default Changelist" comment="" />
+      <created>1585358307231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585358307231</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added project to intelliJ">
+      <created>1585358768501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585358768501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added project to intelliJ">
+      <created>1585358847797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585358847797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added project to intelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="added project to intelliJ" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585358846961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358846961" />
+    <state x="360" y="120" width="1200" height="800" key="DiffContextDialog" timestamp="1585358705317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="120" width="1200" height="800" key="DiffContextDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358705317" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1585358821794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1585358821794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1585358821794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1585358821794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358821794" />
+    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1585358699886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="254" key="VcsDiffUtil.ChangesDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1585358699886" />
+  </component>
+</project>
