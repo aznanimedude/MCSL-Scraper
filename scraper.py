@@ -111,7 +111,7 @@ for i in data:
 
 #    print(data[i])
     for j in data[i]:
-        print(i, j, data[i][j][0], data[i][j][1])
+        print(i, "\n\t-\t", j, "\n\t-\t Seed Time: ", data[i][j][0], "\n\t-\t Race Time: ", data[i][j][1])
 #        print(j)
 #       print(data[i][j][0])
 #        print(data[i][j][1])
@@ -119,10 +119,8 @@ for i in data:
 
 with open("output.txt","w") as outputfile:
     for i in data:
-        outputfile.write(i)
-        outputfile.write("\n")
         for j in data[i]:
-            outputfile.write(str.join(" ", ("\t-\t",j, data[i][j][0], data[i][j][1])))
+            outputfile.write((i + "\n\t-\t" + j + "\n\t-\t Seed Time: " + data[i][j][0] + "\n\t-\t Race Time: " + data[i][j][1]))
             outputfile.write("\n")
         #for j in data[i]:
          #   outputfile.write(j)
